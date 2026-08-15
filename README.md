@@ -196,6 +196,3 @@ Motilal Nehru National Institute of Technology Allahabad
 
 ---
 
-## 📄 License
-
-MIT License — free to use, modify, and distribute with attribution.
